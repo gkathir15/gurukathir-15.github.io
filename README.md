@@ -1,2 +1,17 @@
 # gurukathir-15.github.io
 Simple Github page
+
+
+#sample json body
+
+{
+  "title": "First Birthday party",
+  "user": "Emily's",
+  "date": "28.02.2018",
+  "time": "18:00",
+  "background": "full.jpg",
+  "venue": "Ideal Garden Restaurant",
+  "location": "https://www.google.co.in/maps/place/Ideal+Garden+Restaurant/@12.9494337,80.1870495,12z/data=!4m17!1m11!4m10!1m3!2m2!1d80.256744!2d12.9569618!1m5!1m1!1s0x3a525d219e527111:0x73945cf2db0a891b!2m2!1d80.25709!2d12.949443!3m4!1s0x3a525d219e527111:0x73945cf2db0a891b!8m2!3d12.949443!4d80.25709",
+  "contact": "9500181587",
+  "email": "gkathir15@gmail.com"
+}
